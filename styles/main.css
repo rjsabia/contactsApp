@@ -23,7 +23,7 @@ body {
 #container {
 	max-width:400px;
 	width:100%;
-	margin:0 auto 0 50px;
+	margin:0 auto 0 125px;
 	position:relative;
 	float: left;
 }
@@ -127,3 +127,20 @@ fieldset {
 :-ms-input-placeholder {
  color:#888;
 }
+.output{
+	display: inline-block;
+	max-width:600px;
+	height: 486px;
+	width:100%;
+	background-color: #2196F3;
+	margin: 50px 50px 0px 20px;
+	color: white;
+}
+.output h3{
+	margin-top: 25px;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+}
+
